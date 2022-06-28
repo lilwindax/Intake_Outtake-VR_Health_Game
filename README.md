@@ -113,4 +113,6 @@ Through our gameplay players will start to build a desire from within to get ove
 challenge. Eventually, leading to behaviour change with the decisions they make with
 deciding what to do, and greater understanding of the link.
 
+
+## Credits
 McLatchie T.J., Singh R. & Gibson D. - Media Design School 
