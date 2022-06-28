@@ -1,6 +1,6 @@
 # Intake Outtake - VR Health Game 
 
-![Screenshot 2022-06-28 201453](https://user-images.githubusercontent.com/72056829/176129276-98324342-9e9b-4c4a-8317-1ab0caef76c2.png)
+![Screenshot 2022-06-28 201733](https://user-images.githubusercontent.com/72056829/176129848-b911394f-f2cb-47d9-a54c-f0d6335b93af.png)
 
 ## Introduction 
 Society's lack of understanding of the immediate link between their food consumption,
