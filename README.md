@@ -1,5 +1,7 @@
 # Intake Outtake - VR Health Game 
 
+![Screenshot 2022-06-28 201453](https://user-images.githubusercontent.com/72056829/176129276-98324342-9e9b-4c4a-8317-1ab0caef76c2.png)
+
 ## Introduction 
 Society's lack of understanding of the immediate link between their food consumption,
 energy intake, and the associated physical activity necessary to meet the energy expenditure.
