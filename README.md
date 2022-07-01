@@ -3,7 +3,7 @@
 ![Screenshot 2022-06-28 201733](https://user-images.githubusercontent.com/72056829/176129848-b911394f-f2cb-47d9-a54c-f0d6335b93af.png)
 
 ## Introduction 
-Society's lack of understanding of the immediate link between their food consumption,
+There is a lack of understanding of the immediate link between our food consumption,
 energy intake, and the associated physical activity necessary to meet the energy expenditure.
 A better understanding between the link will have substantial positive health impacts. Our
 game intends to create a gameplay link between calories consumed and the effect this has on
